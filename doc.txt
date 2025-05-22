@@ -1,0 +1,12 @@
+Menambahkan fitur PAYMENT GATEWAY Midtrans pada Website Kedai Kopi Kenangan Senja kita.
+---
+
+👉 Registrasi Midtrans: https://dashboard.midtrans.com/register
+👉 Dokumentasi: https://docs.midtrans.com
+👉 Demo Snap Pop-up: https://demo.midtrans.com
+👉 Demo Snap Integration: https://demo.sandbox.midtrans.com
+👉 Simulasi Pembayaran: https://simulator.sandbox.midtrans.co...
+
+---
+Download Source Code Kedai Kopi:
+https://github.com/sandhikagalih/keda...

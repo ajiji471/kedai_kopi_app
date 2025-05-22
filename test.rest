@@ -1,0 +1,9 @@
+### Get Snap Token
+POST http://localhost:8000/php/placeOrder.php
+Content-Type: application/x-www-form-urlencoded
+
+total=50000
+items=[{"id":"item1","price":50000,"quantity":1,"name":"Test Item"}]
+name=Ajiji
+email=ajiji@example.com
+phone=08123456789
